@@ -1,31 +1,15 @@
-## Agenda
-09:15 – 09:30 – Introduction (15 mins)
+## Workshop Objectives
+SonaType Nexus Firewall 을 통한 악성코드탐지 플랫폼을 이용하여, SDLC 내에 위협요소가 유입되는 것을 방지할 수 있도록, Nexus Repository 와 Nexus Firewall 을 통한 실습을 수행합니다. 가장 많이 사용하는 NPM, MAVEN, PYPI 를 통해서, 위협요소를 평가 실습하며, 주어진 미션을 완성함을 목적으로 합니다.
+Nexus Firewall is Sonatype unique offering in the market that not only protect you against open source vulnerability (phase 1 attack) during download, it is also the only product in the market that prevents phase 2 attacks (malicious packages, typo squatting, dependency confusion”
 
-- Workshop Objectives
-09:30 – 9:45 - Keycloak integration with Rancher
+## Mission 1
+9월 1일 ~ 9월 4일:
 
-- Configuring Keycloak
+## Mission 2
+9월 5일 ~ 9월 8일
 
-- Integration with Rancher
+## Mission 3
+9월 13일 ~ 9월 16일
 
-09:45 – 10:15 - Authentication & Authorisation
-
-- Creating users in Keycloak
-- User authentication
-- Configure and Assign roles
-- Authorisation
-10:15 – 10:20 BREAK
-
-10:20 – 11:00 – EFK (Elastic, FluentD and Kibana) integration with Rancher
-
-- Configuring Kibana
-
-- Configuring Rancher logging (FluentD)
-
-- Log shipping to Elastic Search
-
-- View logs in Kibana
-
-- Report Generation
-
-11:00 - 11:30 - Q&A
+## 리뷰
+9월 19일 ~ 20일
