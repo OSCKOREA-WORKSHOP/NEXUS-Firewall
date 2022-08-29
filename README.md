@@ -3,6 +3,15 @@ SonaType Nexus Firewall (IQ Server) 을 통한 악성코드탐지 플랫폼을 �
 
 Nexus Firewall is Sonatype unique offering in the market that not only protect you against open source vulnerability (phase 1 attack) during download, it is also the only product in the market that prevents phase 2 attacks (malicious packages, typo squatting, dependency confusion”
 
+## 환경정보
+Nexus Repository 시스템
+https://nexus-workshop.openmsa.cloud:8443/
+
+IQ Server(Nexus Firewall) 시스템
+https://nexus-workshop.openmsa.cloud:8443/
+
+접속 계정정보는 개인 이메일을 통해서 별도로 전달될 예정입니다.
+
 ## Mission 1
 9월 1일 ~ 9월 4일:
 
