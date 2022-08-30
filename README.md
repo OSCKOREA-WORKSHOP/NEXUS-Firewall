@@ -17,6 +17,9 @@ http://iq-workshop.openmsa.cloud:8070
 ## Mission 1
 9월 1일 ~ 9월 4일
 
+가장 많이 사용하는 패키지 관리 툴을 설치하고, Public Repository 를 사용하지 Nexus Repository 를 통한 컴포넌트/디펜더시 다운로드할 수 있도록 환경 설정.
+개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서, 본인의 환경에 맞게 설정할 수 있도록 합니다.
+
 - [1. NPM 환경 설정](01.NPM.md)
 - [2. MAVEN 환경 설정](02.MAVEN.md)
 - [3. PYTHON 환경 설정](03.PYTHON.md)
