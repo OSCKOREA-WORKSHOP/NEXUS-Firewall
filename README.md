@@ -15,7 +15,11 @@ http://iq-workshop.openmsa.cloud:8070
 접속 계정정보는 개인 이메일을 통해서 별도로 전달될 예정입니다.
 
 ## Mission 1
-9월 1일 ~ 9월 4일:
+9월 1일 ~ 9월 4일
+
+1. NPM 환경 설정 (./01.NPM.md)
+2. MAVEN 환경 설정 (./02.MAVEN.md)
+3. PYTHON 환경 설정 (./03.PYTHON.md)
 
 ## Mission 2
 9월 5일 ~ 9월 8일
