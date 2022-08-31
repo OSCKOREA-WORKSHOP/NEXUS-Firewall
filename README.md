@@ -22,7 +22,7 @@ http://iq-workshop.openmsa.cloud:8070
 개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서 본인의 환경에 맞게 설정합니다.
 (참조용이며, 이미 각 환경에 맞게 설정이 되어 있다면 개인 환경에서 Proxy 설정만 진행하면 됩니다.)
 
-###Question
+### Question
 
 1. NPM Repository Manager 를 주어진 계정을 가지고 접속
 
