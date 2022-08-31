@@ -13,7 +13,7 @@ IQ Server(Nexus Firewall) 시스템
 http://iq-workshop.openmsa.cloud:8070
 
 
-접속 계정정보는 개인 이메일을 통해서 별도로 전달될 예정입니다.
+접속 계정정보는 참가 신청시 기재한 연락처로 문자 발송됩니다. 문자를 받지 못한 분은 marketing@osckorea.com 으로 성함과 연락처, 내용을 보내주세요. 빠르게 조치해드리겠습니다. 
 
 # Mission 1
 9월 1일 ~ 9월 4일
