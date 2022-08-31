@@ -15,14 +15,14 @@ http://iq-workshop.openmsa.cloud:8070
 
 접속 계정정보는 참가 신청시 기재한 연락처로 문자 발송됩니다. 문자를 받지 못한 분은 marketing@osckorea.com 으로 성함과 연락처, 내용을 보내주세요. 빠르게 조치해드리겠습니다. 
 
-# Mission 1
+# Mission #1
 9월 1일 ~ 9월 4일
 
 가장 많이 사용하는 패키지 관리 툴을 설치하고, Public Repository를 사용하지 않고도 Nexus Repository를 통한 컴포넌트/디펜더시 다운로드할 수 있도록 환경 설정.
 개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서 본인의 환경에 맞게 설정합니다.
 (참조용이며, 이미 각 환경에 맞게 설정이 되어 있다면 개인 환경에서 Proxy 설정만 진행하면 됩니다.)
 
-## Question
+## Quest
 
 총 5개 질문에 대한 답을 marketing@osckorea.com 으로 보내주세요. 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
 
@@ -43,10 +43,10 @@ http://iq-workshop.openmsa.cloud:8070
 - [2. MAVEN 환경 설정](02.MAVEN.md)
 - [3. PYTHON 환경 설정](03.PYTHON.md)
 
-# Mission 2
+# Mission #2
 9월 5일 ~ 9월 8일
 
-# Mission 3
+# Mission #3
 9월 13일 ~ 9월 16일
 
 # 리뷰
