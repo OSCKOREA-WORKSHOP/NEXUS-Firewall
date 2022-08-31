@@ -1,3 +1,6 @@
+![이벤터스-배너](https://user-images.githubusercontent.com/112323612/187632301-327e3b0f-8202-4533-90bc-9e729499a73b.png)
+
+
 # Workshop Objectives
 악성코드탐지 플랫폼 SonaType Nexus Firewall (IQ Server) 를 이용하여, SDLC 내에 위협요소가 유입되는 것을 방지할 수 있도록 Nexus Repository와 Nexus Firewall을 통한 실습을 수행합니다. 가장 많이 사용하는 NPM, MAVEN, PYPI를 통해서 위협요소를 평가 실습하며, 주어진 미션을 완성함을 목적으로 합니다.
 
