@@ -12,7 +12,6 @@ IQ Server(Nexus Firewall) 시스템
 
 http://iq-workshop.openmsa.cloud:8070
 
-http://www.osckorea.com
 
 접속 계정정보는 개인 이메일을 통해서 별도로 전달될 예정입니다.
 
