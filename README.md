@@ -24,6 +24,9 @@ http://iq-workshop.openmsa.cloud:8070
 
 ## Question
 
+총 5개 질문에 대한 답을 marketing@osckorea.com 으로 보내주세요. 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
+
+
 1. NPM Repository Manager 를 주어진 계정을 가지고 접속
 
 2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요
