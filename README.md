@@ -22,6 +22,20 @@ http://iq-workshop.openmsa.cloud:8070
 개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서 본인의 환경에 맞게 설정합니다.
 (참조용이며, 이미 각 환경에 맞게 설정이 되어 있다면 개인 환경에서 Proxy 설정만 진행하면 됩니다.)
 
+###Question
+
+1. NPM Repository Manager 를 주어진 계정을 가지고 접속
+
+2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요
+
+3. 각 언어에 할당된 (maven, npm, pypi) common Repository 에 Health Check 항목하고, View Detail 를 통해서 Artifact 관련 정보를 확인해 보세요.
+
+4. Python Repository 에 저장된 django 컴포넌트 버전은 얼마인가요?
+
+5. 할당된 개인 Repository (3개) 적어도 하나의 Component/Dependencies를 적재해 보세요
+
+
+
 - [1. NPM 환경 설정](01.NPM.md)
 - [2. MAVEN 환경 설정](02.MAVEN.md)
 - [3. PYTHON 환경 설정](03.PYTHON.md)
