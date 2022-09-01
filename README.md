@@ -31,7 +31,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 ## Quest
 
-**총 5개 질문에 대한 답을 marketing@osckorea.com 으로 보내주세요.** 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
+**총 5개 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
 
 
 1. NPM Repository Manager 를 주어진 계정을 가지고 접속
@@ -60,7 +60,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 
 
-5. 할당된 개인 Repository (3개)에 하나 이상의 Component/Dependencies를 적재한 뒤, 스크린 캡처하여 첨부해주세요. 
+5. 할당된 개인 Repository (3개)에 하나 이상의 Component/Dependencies를 적재한 뒤, 스크린 캡처하여 메일 본문에 첨부해주세요. 
 
 
 
