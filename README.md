@@ -34,7 +34,7 @@ http://iq-workshop.openmsa.cloud:8070
 **총 5개 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
 
 
-1. NPM Repository Manager 를 주어진 계정을 가지고 접속
+1. 문자 메세지로 안내된 계정 정보를 확인하여 시스템에 접속하세요.
 
 
 
@@ -42,7 +42,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 
 
-3. 각 언어에 할당된 (maven, npm, pypi) common Repository의 Health Check 항목하고, View Detail을 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요. 
+3. 각 언어에 할당된 (maven, npm, pypi) common Repository의 Health Check 항목과 View Detail을 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요. 
 
 
 언어 | Artifact 의 총수 | Security 취약성 갯수 | Threat Level 9 이상의 CVE 코드 | Component
