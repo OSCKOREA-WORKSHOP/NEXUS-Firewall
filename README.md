@@ -11,10 +11,6 @@ Nexus Firewall is Sonatype unique offering in the market that not only protect y
 
 https://nexus-workshop.openmsa.cloud:8443/
 
-**IQ Server(Nexus Firewall) 시스템**
-
-http://iq-workshop.openmsa.cloud:8070
-
 
 접속 계정정보는 참가 신청시 기재한 연락처로 문자 발송됩니다. 
 
