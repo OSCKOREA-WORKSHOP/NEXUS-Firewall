@@ -22,23 +22,38 @@ http://iq-workshop.openmsa.cloud:8070
 9월 1일 12:00 (정오/한국시간) ~ 9월 4일 (정오/한국시간)
 
 가장 많이 사용하는 패키지 관리 툴을 설치하고, Public Repository를 사용하지 않고도 Nexus Repository를 통한 컴포넌트/디펜더시 다운로드할 수 있도록 환경 설정.
+
+
 개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서 본인의 환경에 맞게 설정합니다.
 (참조용이며, 이미 각 환경에 맞게 설정이 되어 있다면 개인 환경에서 Proxy 설정만 진행하면 됩니다.)
 
 ## Quest
 
-총 5개 질문에 대한 답을 marketing@osckorea.com 으로 보내주세요. 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
+**총 5개 질문에 대한 답을 marketing@osckorea.com 으로 보내주세요.** 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
 
 
 1. NPM Repository Manager 를 주어진 계정을 가지고 접속
 
 2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요
 
-3. 각 언어에 할당된 (maven, npm, pypi) common Repository 에 Health Check 항목하고, View Detail 를 통해서 Artifact 관련 정보를 확인해 보세요.
+3. 각 언어에 할당된 (maven, npm, pypi) common Repository 에 Health Check 항목하고, View Detail 를 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요. 
+
+
+언어 | Artifact 의 총수 | Security 취약성 갯수 | Threat Level 9 이상의 CVE 코드 | Component
+---|:---:|---:|---:|---:
+**pypi** | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | 
+**maven** | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | 
+
+언어 | Artifact 의 총수 | License(Critical) Copyleft 갯수 | Component
+---|:---:|---:|---:
+**NPM**  | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | 
+
+
+
 
 4. Python Repository 에 저장된 django 컴포넌트 버전은 얼마인가요?
 
-5. 할당된 개인 Repository (3개) 적어도 하나의 Component/Dependencies를 적재해 보세요
+5. 할당된 개인 Repository (3개)에 하나 이상의 Component/Dependencies를 적재한 뒤, 스크린 캡처하여 첨부해주세요. 
 
 
 
