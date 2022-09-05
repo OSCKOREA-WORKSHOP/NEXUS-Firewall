@@ -79,8 +79,6 @@ Ex) `http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComp
 
 Policy 탭으로 이동합니다.
 
-**문제 Component에 대해 여러가지의 정책이 걸려있지만 실제로 격리가 적용된 정책의 이름은 무엇입니까?**
-
 ![](attachments/654573822/654377357.png)
 
 
