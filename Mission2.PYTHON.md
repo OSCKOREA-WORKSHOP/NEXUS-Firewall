@@ -92,12 +92,8 @@ Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
 
 ![](attachments/654868581/654835869.png)
 
-1.  아래 사항 취약점에 대한 정보를 확인하고 Info를 클릭하여 자세한 정보를 확인합니다.
+아래 사항 취약점에 대한 정보를 확인하고 Info를 클릭하여 자세한 정보를 확인합니다.
     
-    1.  **Threat Level**
-        
-    2.  **Problem Code**
-        
 
 ![](attachments/654868581/654901388.png)
 
