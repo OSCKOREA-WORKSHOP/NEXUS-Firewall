@@ -4,7 +4,7 @@
 Mission2 목표!
 ============
 
-*   Python에서 사용되는 웹프레임워크 **Django 모듈을 다운로드** 진행,
+*   Python에서 사용되는 웹프레임워크 **Django 모듈을 다운로드** 진행
     
 *   Django 모듈 **IQServer에 의해서 격리 되는지 확인**!
     
