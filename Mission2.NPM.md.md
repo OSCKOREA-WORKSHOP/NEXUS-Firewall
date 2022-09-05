@@ -97,24 +97,6 @@ npm ERR! A complete log of this run can be found in:
 npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-08-30T09_08_14_263Z-debug-0.log
 ```
 
-![](attachments/654573822/655000061.png)
-
-NPM Proxy 에 아래 Download policy compliant version only 부분이 Check 되어 있으면, 보안상 문제가 되는 패키지 (여기서는, `@sonatype/policy-demo@1.4.0`) 을 다운로드 하지 않도록 막는 경우가 있음.
-
-![](attachments/654573822/655556843.png?width=680)
-
-아래와 같은 오류 발생
-
-```java
-PS C:\Users\admin\npm> npm install @sonatype/policy-demo@1.4.0
-npm ERR! code ETARGET
-npm ERR! notarget No matching version found for @sonatype/policy-demo@1.4.0.
-npm ERR! notarget In most cases you or one of your dependencies are requesting
-npm ERR! notarget a package version that doesn't exist.
-
-npm ERR! A complete log of this run can be found in:
-npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-08-30T09_07_04_869Z-debug-0.log
-```
 
 * * *
 
