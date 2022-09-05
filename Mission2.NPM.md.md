@@ -1,0 +1,132 @@
+
+* * *
+
+Mission2 목표!
+============
+
+*   Sonatype 에서 데모용으로 사용하는 **Policy-demo 모듈을 다운로드** 진행,
+    
+*   Policy-demo 모듈 **IQServer에 의해서 격리 되는지 확인**!
+    
+*   IQServer 접속 하여 취약성 **Report를 확인하고 미션을 확인**하자!
+    
+
+1\. Policy-Demo 패키지 설치 와 격리 확인
+==============================
+
+`@sonatype/policy-demo` 패키지 설치를 진행하고 아래와 같이  
+`REQUESTED ITEM IS QUARANTINED` ERROR 메시지 확인.
+
+```java
+# npm install @sonatype/policy-demo
+---
+npm ERR! code E403
+npm ERR! 403 403 -------------------->>> REQUESTED ITEM IS QUARANTINED -------------------->>> FOR DETAILS SEE ------>>> 
+http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComponent/YWFkYmFiMGY0NzM0NDY3YmE4YzZjZDM3MjRkYTk4M2M <<<------ - GET https://nexus-workshop.openmsa.cloud:8443/repository/thomas-npm-proxy/@sonatype/policy-demo/-/policy-demo-1.4.0.tgz
+npm ERR! 403 In most cases, you or one of your dependencies are requesting
+npm ERR! 403 a package version that is forbidden by your security policy, or
+npm ERR! 403 on a server you do not have access to.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\user\AppData\Local\npm-cache\_logs\2022-08-29T09_20_14_868Z-debug-0.log
+```
+
+2\. IQ-server 접속 및 Report 확인
+============================
+
+2-1. Report 확인 (1)
+------------------
+
+위 에러에서 발생한 `FOR DETAILS SEE ------>>>` 문구에서 제공한 Iq-server URL 확인하여 Report 확인  
+Ex) `http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComponent/YWFkYmFiMGY0NzM0NDY3YmE4YzZjZDM3MjRkYTk4M2M`
+
+2-2. Report 확인 (2)
+------------------
+
+또는 Nexus에 접속하여 연동된 IqServer 를 직접 링크를 타고 확인
+
+넥서스 링크를 타고 입장하면 “금지아이콘”으로 표시되어 격리가 된것을 육안으로 확인 할 수 있습니다.
+
+![](attachments/654573822/654508444.png)
+
+2-3. 로그인
+--------
+
+Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
+
+![](attachments/654573822/654377329.png?width=374)
+
+3\. Report 확인 및 Mission 2 문제 확인 !
+=================================
+
+**Report를 확인하여 아래 문항에 관련한 문제를 확인하여 제출하면 성공!**  
+문제의 관련한 힌트는 아래 사항의 사진에서 빨간박스 부분을 통해 확인 할 수 있습니다.
+
+1.  **문제 코드(Problem Code)는 무엇인가요?**
+    
+2.  **위협 레벨(Threat Level)은 얼마인가요?**
+    
+3.  **실제 격리(Proxy fail)가 진행된 정책(Policy/Action) 이름은 무엇입니까?**
+    
+
+* * *
+
+접속하여 `Quarantined` 을 클릭하여 격리되어있는 컴포넌트를 확인 할 수 있습니다.  
+이후 해당 컴포넌트를 클릭하여 컴포넌트 와 격리정책을 살펴봅니다.
+
+![](attachments/654573822/654377365.png?width=544)
+
+1.  아래 사항 취약점에 대한 정보를 확인하고 Info를 클릭하여 자세한 정보를 확인합니다.
+    
+    1.  **Threat Level**
+        
+    2.  **Problem Code**
+        
+
+![](attachments/654573822/654606745.png?width=680)
+
+Policy 탭으로 이동합니다.
+
+**문제 Component에 대해 여러가지의 정책이 걸려있지만 실제로 격리가 적용된 정책의 이름은 무엇입니까?**
+
+![](attachments/654573822/654377357.png)
+
+* * *
+
+```java
+PS C:\Users\admin\npm> npm install @sonatype/policy-demo@1.4.0
+npm ERR! code E403
+npm ERR! 403 403 -------------------->>> REQUESTED ITEM IS QUARANTINED -------------------->>> FOR DETAILS SEE ------>>> http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComponent/NGJmZmJjYjRmN2IzNGMwOGJjYzJhYTE0YTQ4MzBkZWM <<<------ - GET https://nexus-workshop.openmsa.cloud:8443/repository/common-npm-proxy/@sonatype/policy-demo/-/policy-demo-1.4.0.tgz
+npm ERR! 403 In most cases, you or one of your dependencies are requesting
+npm ERR! 403 a package version that is forbidden by your security policy, or
+npm ERR! 403 on a server you do not have access to.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-08-30T09_08_14_263Z-debug-0.log
+```
+
+![](attachments/654573822/655000061.png)
+
+NPM Proxy 에 아래 Download policy compliant version only 부분이 Check 되어 있으면, 보안상 문제가 되는 패키지 (여기서는, `@sonatype/policy-demo@1.4.0`) 을 다운로드 하지 않도록 막는 경우가 있음.
+
+![](attachments/654573822/655556843.png?width=680)
+
+아래와 같은 오류 발생
+
+```java
+PS C:\Users\admin\npm> npm install @sonatype/policy-demo@1.4.0
+npm ERR! code ETARGET
+npm ERR! notarget No matching version found for @sonatype/policy-demo@1.4.0.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-08-30T09_07_04_869Z-debug-0.log
+```
+
+* * *
+
+여기까지 오시느라 수고하셨습니다!
+------------------
+
+앞으로 진행할 Mission 3 시나리오를 기다려주세요 ^^ !
