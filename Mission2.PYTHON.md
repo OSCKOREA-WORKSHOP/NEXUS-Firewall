@@ -61,7 +61,7 @@ ERROR: Could not install requirement Django from https://nexus-workshop.openmsa.
 
 Ex) `ERROR: Could not install requirement Django from https://nexus-workshop.openmsa.cloud:8443/repository/thomas-pypi-proxy/packages/django/4.1/Django-4.1-py3-none-any.whl#sha256=031ccb717782f6af83a0063a1957686e87cb4581ea61b47b3e9addf60687989a because of HTTP error 403 Client Error: -------------------->>> REQUESTED ITEM IS QUARANTINED -------------------->>> FOR DETAILS SEE ------>>> http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComponent/ZGQ3MmJiNDMyNjhjNDU0NWE0ZmM0ZDExZmIxYzQ0MzQ <<<------ for url`
 
-3-2. Report 확인 (2)
+4-2. Report 확인 (2)
 ------------------
 
 또는 Nexus에 접속하여 연동된 IqServer 를 직접 링크를 타고 확인 할 수 있습니다.
@@ -70,14 +70,14 @@ Ex) `ERROR: Could not install requirement Django from https://nexus-workshop.ope
 
 ![](attachments/654868581/654868608.png?width=680)
 
-3-3. 로그인
+4-3. 로그인
 --------
 
 Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
 
 ![](attachments/654868581/654803097.png?width=566)
 
-4\. Report 확인 및 Mission 2 문제 확인 !
+5\. Report 확인 및 Mission 2 문제 확인 !
 =================================
 
 **Report를 확인하여 아래 문항에 관련한 문제를 확인하여 제출하면 성공!**  
@@ -99,8 +99,6 @@ Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
 
 Policy 탭으로 이동합니다.`module`
 
-**문제 module에 대해 여러가지의 정책이 걸려있지만 실제로 격리가 적용된 정책의 이름은 무엇입니까?**
-
 ![](attachments/654868581/654901398.png)
 
 * * *
@@ -108,4 +106,3 @@ Policy 탭으로 이동합니다.`module`
 여기까지 오시느라 수고하셨습니다!
 ------------------
 
-앞으로 진행할 Mission 3 시나리오를 기다려주세요 ^^ !
