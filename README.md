@@ -38,6 +38,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요
 
+<font color = red> 정답 : </font>
 
 
 3. 각 언어에 할당된 (maven, npm, pypi) common Repository의 Health Check 항목과 View Detail을 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요. 
