@@ -70,6 +70,10 @@ http://iq-workshop.openmsa.cloud:8070
 # Mission #2
 **9월 5일 12:00 (정오/한국시간) ~ 9월 8일 (정오/한국시간)**
 
+- [1. NPM 환경 설정](Mission2.NPM.md)
+- [2. PYTHON 환경 설정](Mission2.PYTHON.md)<br/><br/><br/><br/>
+
+
 ## Quest
 
 **1번 NPM, 2번 Maven, 3번 PiPy 중 희망하는 언어를 골라 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** <br/><br/><br/>
