@@ -70,7 +70,7 @@ https://nexus-workshop.openmsa.cloud:8443/
 
 ## Quest
 
-**1번 NPM, 2번 Maven, 3번 PiPy 중 희망하는 언어를 골라 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 
+**1번 NPM, 2번 Maven, 3번 PiPy 중 희망하는 언어를 골라 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** <br/><br/><br/>
 
   * **[NPM]** :  NPM Malicious 패키지 설치하고, IQ Server 를 접속해서, 아래 질의에 답변하세요.
    
@@ -79,7 +79,7 @@ https://nexus-workshop.openmsa.cloud:8443/
     
    (NPM-1) Problem Code 는 무엇인가요?
    
-   (NPM-2) Threat Level (위협도)는 얼마인가요?
+   (NPM-2) Threat Level (위협도)는 얼마인가요?<br/><br/><br/>
     
     
   * **[Maven]** : Sample Maven build 후 보안관련 상황을 살펴보고 IQ Server 를 접속해서, 아래 질의에 답변하세요. 
@@ -88,7 +88,7 @@ https://nexus-workshop.openmsa.cloud:8443/
     
    (Maven-1) 총 Component 의 수는?
    
-   (Maven-2) Security-Critical 정책 위협에 Detected 된 Components 의 수는?
+   (Maven-2) Security-Critical 정책 위협에 Detected 된 Components 의 수는?<br/><br/><br/>
    
    
   * **[PiPy]** : PYPI Malicious 패키지 설치하고, IQ Server 를 접속해서, 아래 질의에 답변하세요. 
