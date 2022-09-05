@@ -79,7 +79,9 @@ https://nexus-workshop.openmsa.cloud:8443/
     
    (NPM-1) Problem Code 는 무엇인가요?
    
-   (NPM-2) Threat Level (위협도)는 얼마인가요?<br/><br/><br/>
+   (NPM-2) Threat Level (위협도)는 얼마인가요?
+   
+   (NPM-3) 실제 격리를 일으키는 정책(Policy)이름은 무엇인가요? <br/><br/><br/>
     
     
   * **[Maven]** : Sample Maven build 후 보안관련 상황을 살펴보고 IQ Server 를 접속해서, 아래 질의에 답변하세요. 
@@ -88,7 +90,9 @@ https://nexus-workshop.openmsa.cloud:8443/
     
    (Maven-1) 총 Component 의 수는?
    
-   (Maven-2) Security-Critical 정책 위협에 Detected 된 Components 의 수는?<br/><br/><br/>
+   (Maven-2) Security-Critical 정책 위협에 Detected 된 Components 의 수는?
+   
+   (Maven-3) maven-compat:3.0 컴포넌트 현재 버전과, 보안 문제를 일으키는 않는 권고되는 버전은? <br/><br/><br/>
    
    
   * **[PiPy]** : PYPI Malicious 패키지 설치하고, IQ Server 를 접속해서, 아래 질의에 답변하세요. 
