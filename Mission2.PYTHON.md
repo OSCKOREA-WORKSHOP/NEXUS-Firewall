@@ -77,7 +77,7 @@ Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
 
 ![](attachments/654868581/654803097.png?width=566)
 
-5\. Report 확인 및 Mission 2 문제 확인 !
+5\. Report 확인
 =================================
 
 **Report를 확인하여 아래 문항에 관련한 문제를 확인하여 제출하면 성공!**  
