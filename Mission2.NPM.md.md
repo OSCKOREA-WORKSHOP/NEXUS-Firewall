@@ -83,19 +83,6 @@ Policy 탭으로 이동합니다.
 
 ![](attachments/654573822/654377357.png)
 
-* * *
-
-```java
-PS C:\Users\admin\npm> npm install @sonatype/policy-demo@1.4.0
-npm ERR! code E403
-npm ERR! 403 403 -------------------->>> REQUESTED ITEM IS QUARANTINED -------------------->>> FOR DETAILS SEE ------>>> http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComponent/NGJmZmJjYjRmN2IzNGMwOGJjYzJhYTE0YTQ4MzBkZWM <<<------ - GET https://nexus-workshop.openmsa.cloud:8443/repository/common-npm-proxy/@sonatype/policy-demo/-/policy-demo-1.4.0.tgz
-npm ERR! 403 In most cases, you or one of your dependencies are requesting
-npm ERR! 403 a package version that is forbidden by your security policy, or
-npm ERR! 403 on a server you do not have access to.
-
-npm ERR! A complete log of this run can be found in:
-npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-08-30T09_08_14_263Z-debug-0.log
-```
 
 
 * * *
