@@ -58,14 +58,12 @@ http://iq-workshop.openmsa.cloud:8070
 
 
 
-5. 할당된 개인 Repository (3개)에 하나 이상의 Component/Dependencies를 적재한 뒤, 스크린 캡처하여 메일 본문에 첨부해주세요. 
-
-
+5. 할당된 개인 Repository (3개)에 하나 이상의 Component/Dependencies를 적재한 뒤, 스크린 캡처하여 메일 본문에 첨부해주세요. <br/><br/>
 
 
 - [1. NPM 환경 설정](01.NPM.md)
 - [2. MAVEN 환경 설정](02.MAVEN.md)
-- [3. PYTHON 환경 설정](03.PYTHON.md)<br/>
+- [3. PYTHON 환경 설정](03.PYTHON.md)<br/><br/><br/><br/>
 
 # Mission #2
 **9월 5일 12:00 (정오/한국시간) ~ 9월 8일 (정오/한국시간)**
