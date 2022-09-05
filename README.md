@@ -27,7 +27,7 @@ https://nexus-workshop.openmsa.cloud:8443/
 
 ## Quest
 
-**총 5개 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 모든 질문에 대한 올바른 답변을 한 참석자만 다음 미션에 참가할 수 있습니다. 
+**총 5개 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 
 
 
 1. 문자 메세지로 안내된 계정 정보를 확인하여 시스템에 접속하세요.
@@ -66,7 +66,39 @@ https://nexus-workshop.openmsa.cloud:8443/
 - [3. PYTHON 환경 설정](03.PYTHON.md)
 
 # Mission #2
-9월 5일 ~ 9월 8일
+**9월 5일 12:00 (정오/한국시간) ~ 9월 8일 (정오/한국시간)**
+
+## Quest
+
+**1번 NPM, 2번 Maven, 3번 PiPy 중 희망하는 언어를 골라 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 
+
+  * **[NPM]** :  NPM Malicious 패키지 설치하고, IQ Server 를 접속해서, 아래 질의에 답변하세요.
+   
+        npm install @sonatype/policy-demo
+
+    
+   (NPM-1) Problem Code 는 무엇인가요?
+   
+   (NPM-2) Threat Level (위협도)는 얼마인가요?
+    
+    
+  * **[Maven]** : Sample Maven build 후 보안관련 상황을 살펴보고 IQ Server 를 접속해서, 아래 질의에 답변하세요. 
+  
+        mvn install
+    
+   (Maven-1) 총 Component 의 수는?
+   
+   (Maven-2) Security-Critical 정책 위협에 Detected 된 Components 의 수는?
+   
+   
+  * **[PiPy]** : PYPI Malicious 패키지 설치하고, IQ Server 를 접속해서, 아래 질의에 답변하세요. 
+   
+        pip install Django
+   
+   (PiPy-1) Threat Level (위협도)는 얼마인가요?
+   
+   (PiPy-2) 실제 격리를 일으키는 정책(Policy)이름은 무엇인가요?
+   
 
 # Mission #3
 9월 13일 ~ 9월 16일
