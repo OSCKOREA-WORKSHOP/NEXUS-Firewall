@@ -4,17 +4,19 @@
 # Workshop Objectives
 악성코드탐지 플랫폼 SonaType Nexus Firewall (IQ Server) 을 이용하여, SDLC 내에 위협요소가 유입되는 것을 방지할 수 있도록 Nexus Repository와 Nexus Firewall을 통한 실습을 수행합니다. 가장 많이 사용하는 NPM, MAVEN, PYPI를 통해서 위협요소를 평가 실습하며, 주어진 미션을 완성함을 목적으로 합니다.
 
-Nexus Firewall is Sonatype unique offering in the market that not only protect you against open source vulnerability (phase 1 attack) during download, it is also the only product in the market that prevents phase 2 attacks (malicious packages, typo squatting, dependency confusion”
+Nexus Firewall is Sonatype unique offering in the market that not only protect you against open source vulnerability (phase 1 attack) during download, it is also the only product in the market that prevents phase 2 attacks (malicious packages, typo squatting, dependency confusion”<br/><br/><br/><br/>
 
 # 환경정보
 **Nexus Repository 시스템**
 
 https://nexus-workshop.openmsa.cloud:8443/
 
+IQ Server 접속
+http://iq-workshop.openmsa.cloud:8070
 
 접속 계정정보는 참가 신청시 기재한 연락처로 문자 발송됩니다. 
 
-문자를 받지 못한 분은 marketing@osckorea.com 으로 성함과 연락처, 내용을 보내주세요. 빠르게 조치해드리겠습니다. 
+문자를 받지 못한 분은 marketing@osckorea.com 으로 성함과 연락처, 내용을 보내주세요. 빠르게 조치해드리겠습니다. <br/><br/><br/><br/>
 
 # Mission #1
 **9월 1일 12:00 (정오/한국시간) ~ 9월 4일 (정오/한국시간)**
@@ -63,7 +65,7 @@ https://nexus-workshop.openmsa.cloud:8443/
 
 - [1. NPM 환경 설정](01.NPM.md)
 - [2. MAVEN 환경 설정](02.MAVEN.md)
-- [3. PYTHON 환경 설정](03.PYTHON.md)
+- [3. PYTHON 환경 설정](03.PYTHON.md)<br/><br/><br/><br/>
 
 # Mission #2
 **9월 5일 12:00 (정오/한국시간) ~ 9월 8일 (정오/한국시간)**
@@ -101,7 +103,7 @@ https://nexus-workshop.openmsa.cloud:8443/
    
    (PiPy-1) Threat Level (위협도)는 얼마인가요?
    
-   (PiPy-2) 실제 격리를 일으키는 정책(Policy)이름은 무엇인가요?
+   (PiPy-2) 실제 격리를 일으키는 정책(Policy)이름은 무엇인가요?<br/><br/><br/><br/>
    
 
 # Mission #3
