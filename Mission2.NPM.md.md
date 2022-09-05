@@ -52,8 +52,6 @@ Ex) `http://iq-workshop.openmsa.cloud:8070/ui/links/repositories/quarantinedComp
 2-3. 로그인
 --------
 
-Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
-
 ![](attachments/654573822/654377329.png?width=374)
 
 3\. Report 확인 및 Mission 2 문제 확인 !
@@ -61,12 +59,6 @@ Iqserver login ID / PW는 Mission2 시작 날짜에 업로드 예정입니다.
 
 **Report를 확인하여 아래 문항에 관련한 문제를 확인하여 제출하면 성공!**  
 문제의 관련한 힌트는 아래 사항의 사진에서 빨간박스 부분을 통해 확인 할 수 있습니다.
-
-1.  **문제 코드(Problem Code)는 무엇인가요?**
-    
-2.  **위협 레벨(Threat Level)은 얼마인가요?**
-    
-3.  **실제 격리(Proxy fail)가 진행된 정책(Policy/Action) 이름은 무엇입니까?**
     
 
 * * *
@@ -128,5 +120,3 @@ npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-08-30T09_07_04_86
 
 여기까지 오시느라 수고하셨습니다!
 ------------------
-
-앞으로 진행할 Mission 3 시나리오를 기다려주세요 ^^ !
