@@ -65,7 +65,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 - [1. NPM 환경 설정](01.NPM.md)
 - [2. MAVEN 환경 설정](02.MAVEN.md)
-- [3. PYTHON 환경 설정](03.PYTHON.md)<br/><br/><br/><br/>
+- [3. PYTHON 환경 설정](03.PYTHON.md)<br/>
 
 # Mission #2
 **9월 5일 12:00 (정오/한국시간) ~ 9월 8일 (정오/한국시간)**
