@@ -34,32 +34,36 @@ http://iq-workshop.openmsa.cloud:8070
 
 1. 문자 메세지로 안내된 계정 정보를 확인하여 시스템에 접속하세요.<br/><br/>
 
+_성공적인 로그인_<br/><br/>
 
 2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요<br/><br/>
 
-
-
+_common-maven-proxy, common-npm-proxy, common-pypi-proxy_
+_{username}-maven-proxy, {username}-npm-propxy, {username}-pypi-proxy_<br/><br/>
 
 3. 각 언어에 할당된 (maven, npm, pypi) common Repository의 Health Check 항목과 View Detail을 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요.<br/><br/> 
 
 
 언어 | Artifact 의 총수 | Security 취약성 갯수 | Threat Level 9 이상의 CVE 코드 | Component
----|:---:|---:|---:|---:
-**pypi** | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | 
-**maven** | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | 
+---|:---:|:---:|:---:|:---:
+**pypi** | _1_ | _1_ | _CVE-2022-34265_ | _Django_ | 
+
+언어 | Artifact 의 총수 | Security 취약성 갯수 | Threat Level 9 이상의 CVE 코드 | Component
+---|:---:|:---:|:---:|:---:
+**maven** | _84_ | _3_ | _CVE-2021-44228, CVE-2021-45046, CVE-2016-1000027_ | _org.apache.logging.log4j, org.apache.logging.log4j, org.springframework_ | 
 
 언어 | Artifact 의 총수 | License(Critical) Copyleft 갯수 | Component
----|:---:|---:|---:
-**NPM**  | &#160;&#160;&#160; | &#160;&#160;&#160; | &#160;&#160;&#160; | 
+---|:---:|:---:|:---:
+**NPM**  | _238_ | _2_ | _@pm2/agent, pm2_ | 
 
-
+<br/><br/>
 
 4. Python Repository 에 저장된 django 컴포넌트 버전은 얼마인가요? <br/><br/>
-
-
+_4.1_ <br/><br/>
 
 5. 할당된 개인 Repository (3개)에 하나 이상의 Component/Dependencies를 적재한 뒤, 스크린 캡처하여 메일 본문에 첨부해주세요. <br/><br/>
 
+_(스크린 캡처 이미지 메일 첨부)_ <br/><br/>
 
 - [1. NPM 환경 설정](01.NPM.md)
 - [2. MAVEN 환경 설정](02.MAVEN.md)
