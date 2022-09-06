@@ -56,7 +56,7 @@ _{username}-maven-proxy, {username}-npm-propxy, {username}-pypi-proxy_<br/><br/>
 ---|:---:|:---:|:---:
 **NPM**  | _238_ | _2_ | _@pm2/agent, pm2_ | 
 
-<br/><br/>
+<br/>
 
 4. Python Repository 에 저장된 django 컴포넌트 버전은 얼마인가요? <br/><br/>
 _4.1_ <br/><br/>
