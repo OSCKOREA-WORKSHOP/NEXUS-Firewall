@@ -14,7 +14,7 @@ https://nexus-workshop.openmsa.cloud:8443/
 IQ Server 접속
 http://iq-workshop.openmsa.cloud:8070
 
-접속 계정정보는 참가 신청시 기재한 연락처로 문자 발송됩니다. 
+:mega: 접속 계정정보는 참가 신청시 기재한 연락처로 문자 발송됩니다. 
 
 문자를 받지 못한 분은 marketing@osckorea.com 으로 성함과 연락처, 내용을 보내주세요. 빠르게 조치해드리겠습니다. <br/><br/><br/><br/>
 
@@ -29,19 +29,18 @@ http://iq-workshop.openmsa.cloud:8070
 
 ## Quest
 
-**총 5개 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 
+:mega: **총 5개 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** 
 
 
-1. 문자 메세지로 안내된 계정 정보를 확인하여 시스템에 접속하세요.
+1. 문자 메세지로 안내된 계정 정보를 확인하여 시스템에 접속하세요.<br/><br/>
+
+
+2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요<br/><br/>
 
 
 
-2. 할당된 총 Repository 를 확인, Repository 이름을 모두 기술해 보세요
 
-
-
-
-3. 각 언어에 할당된 (maven, npm, pypi) common Repository의 Health Check 항목과 View Detail을 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요. 
+3. 각 언어에 할당된 (maven, npm, pypi) common Repository의 Health Check 항목과 View Detail을 통해서 Artifact 관련 정보를 확인하여 각 언어별로 아래 표의 빈칸을 채워보세요.<br/><br/> 
 
 
 언어 | Artifact 의 총수 | Security 취약성 갯수 | Threat Level 9 이상의 CVE 코드 | Component
@@ -55,7 +54,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 
 
-4. Python Repository 에 저장된 django 컴포넌트 버전은 얼마인가요?
+4. Python Repository 에 저장된 django 컴포넌트 버전은 얼마인가요? <br/><br/>
 
 
 
@@ -74,7 +73,7 @@ http://iq-workshop.openmsa.cloud:8070
 
 ## Quest
 
-**1번 NPM, 2번 Maven, 3번 PiPy 중 희망하는 언어를 골라 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** <br/><br/><br/>
+:mega: **1번 NPM, 2번 Maven, 3번 PiPy 중 희망하는 언어를 골라 질문에 대한 답을 메일로 (marketing@osckorea.com) 보내주세요.** <br/><br/><br/>
 
   * **[NPM]** :  NPM Malicious 패키지 설치하고, IQ Server 를 접속해서, 아래 질의에 답변하세요.
    
