@@ -132,5 +132,3 @@ mission#2 에서의 Malicious 패키지들은 IQ Server 정책에 의해 다운�
 9월 19일 ~ 20일
 
 
-
-<span style="color:yellow">노란 글씨입니다.</span>
