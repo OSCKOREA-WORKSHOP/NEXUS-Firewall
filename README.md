@@ -120,11 +120,13 @@ _(스크린 캡처 이미지 메일 첨부)_ <br/><br/>
 
 mission#2 에서의 Malicious 패키지들은 IQ Server 정책에 의해 다운로드가 막혀 있는 상태입니다. 하지만 필요에 의해 일정 기간 불가피하게 사용해야 하는 패키지가 있거나, 아직 보안 패치가 나오지 않은 컴포넌트들도 존재합니다. 이때 보안팀과의 검토를 통해 유예(Waive) 설정을 할 수 있습니다. <br/><br/>
 
-IQ Server에 접속해 유예(Waive) 설정을 진행하세요 
+**IQ Server에 접속해 유예(Waive) 설정을 진행하세요**
 
+:warning:IQ Server 접속해서 Waive 를 할 경우 반드시 본인의 Repository 에만 적용해야 합니다.:warning:<br/>
 
+![3d7bc9d9-850f-40e6-9647-65fd6b7f47cc](https://user-images.githubusercontent.com/112323612/189791054-5bd4bf18-137f-4608-8225-30334fa1f85f.png) <br/><br/>
 
-
+유예 설정 화면이 아닌, <U>유예 설정을 한 뒤의 결과 화면을 스크린 캡쳐</U>하여 정답 제출해주세요. <br/><br/>
 
 # 리뷰
 9월 19일 ~ 20일
