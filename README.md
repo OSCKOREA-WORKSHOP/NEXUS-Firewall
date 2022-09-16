@@ -133,7 +133,14 @@ mission#2 에서의 Malicious 패키지들은 IQ Server 정책에 의해 다운�
 
 :mega: Nexus Firewall 사용 후기를 SNS에 작성하고 포스트 URL을 marketing@osckorea.com으로 보내주세요<br/><br/>
 
-Nexus Firewall의 장점, Trial을 사용하면서 느낌 점 등 어떤 내용이든 좋아요!
-이번 행사에 참여한 후기를 개인 SNS (페이스북, 블로그, 링크드인 등)에 작성하고 게시물 URL을 보내주세요!
+Sonatype Nexus Firewall을 사용하면서 어떤 점이 좋으셨나요? 
+
+몰랐던 것을 알게 된 것은 무엇이 있나요?
+
+오픈소스 소프트웨어 보안에 대한 생각은 어떻게 변화하였나요? 
+
+Nexus Firewall의 장점, Trial을 사용하면서 느낀점 등 어떤 내용이든 좋아요!
+
+이번 **행사에 참여한 후기를 개인 SNS (페이스북, 블로그, 링크드인 등)에 작성하고 게시물 URL을 보내주세요!**
 
 
