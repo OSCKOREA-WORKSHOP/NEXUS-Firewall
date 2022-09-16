@@ -126,9 +126,14 @@ mission#2 에서의 Malicious 패키지들은 IQ Server 정책에 의해 다운�
 
 ![3d7bc9d9-850f-40e6-9647-65fd6b7f47cc](https://user-images.githubusercontent.com/112323612/189791054-5bd4bf18-137f-4608-8225-30334fa1f85f.png) <br/><br/>
 
-유예 설정 화면이 아닌, <U>유예 설정을 한 뒤의 결과 화면을 스크린 캡쳐</U>하여 정답 제출해주세요. <br/><br/>
+유예 설정 화면이 아닌, <U>유예 설정을 한 뒤의 결과 화면을 스크린 캡쳐</U>하여 정답 제출해주세요. <br/><br/><br/><br/>
 
-# 리뷰
-9월 19일 ~ 20일
+# Review event
+**9월 16일 12:00 (정오/한국시간) ~ 9월 16일 (정오/한국시간)**
+
+:mega: Nexus Firewall 사용 후기를 SNS에 작성하고 포스트 URL을 marketing@osckorea.com으로 보내주세요<br/><br/>
+
+Nexus Firewall의 장점, Trial을 사용하면서 느낌 점 등 어떤 내용이든 좋아요!
+이번 행사에 참여한 후기를 개인 SNS (페이스북, 블로그, 링크드인 등)에 작성하고 게시물 URL을 보내주세요!
 
 
